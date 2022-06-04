@@ -1,0 +1,25 @@
+{
+  "name": "crowdsaletokenproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client/src/App.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "bn.js": "^5.2.0",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.3.1",
+    "dotenv": "^16.0.1",
+    "util": "^0.12.4",
+    "util.types": "0.0.2"
+  }
+}
